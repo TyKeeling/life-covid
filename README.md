@@ -12,6 +12,11 @@ Also with this whole quarantine thing I'm really bored
 ![Example](https://github.com/TyKeeling/life-covid/blob/master/animations/animate5.gif)
 ![Example](https://github.com/TyKeeling/life-covid/blob/master/animations/animate2.gif)
 
+How different rates affect the disease spread 
+![Example](https://github.com/TyKeeling/life-covid/blob/master/animations/multislow.gif)
 
-Animation tutorial:
+
+
+
+
 https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c
