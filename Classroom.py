@@ -62,9 +62,3 @@ if __name__ == "__main__":
         g.iterate()
         print(g.arr)
         print("\n")
-
-
-    # arr = np.zeros((2,2), dtype=bool)
-    # arr[0,1] = True
-    # print(arr)
-    pass
