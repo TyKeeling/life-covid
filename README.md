@@ -8,3 +8,6 @@ To make this a little different, it is meant to examine how a virus spreads when
 
 This is moslty to experiement with Matplotlib animation looking at cool ways to display data/notebooks. 
 Also with this whole quarantine thing I'm really bored
+
+![Example](https://github.com/TyKeeling/life-covid/blob/master/animations/animate5.gif)
+![Example](https://github.com/TyKeeling/life-covid/blob/master/animations/animate2.gif)
