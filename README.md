@@ -16,7 +16,4 @@ How different rates affect the disease spread
 ![Example](https://github.com/TyKeeling/life-covid/blob/master/animations/multislow.gif)
 
 
-
-
-
 https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c
